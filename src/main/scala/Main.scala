@@ -5,7 +5,7 @@ import breeze.linalg.DenseMatrix
 import breeze.numerics._
 
 
-object Main{
+object Main {
   def ocurrences(list1: Vector[Int]): HashMap[Int, Float] = { // prior probabilities
     val no_of_examples = list1.length;
     val attrs = list1.groupBy(identity).mapValues(_.size);
