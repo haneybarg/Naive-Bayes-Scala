@@ -1,0 +1,4 @@
+* Naive Bayes in Scala
+  This is an implementation - from scratch - of this famous Machine Learning algorithm.
+  It's base on this blog's [[https://appliedmachinelearning.blog/2017/05/23/understanding-naive-bayes-classifier-from-scratch-python-code/][post]]. There you can find its theorical explanation and the code
+  in Python.
